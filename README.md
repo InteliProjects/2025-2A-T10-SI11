@@ -1,4 +1,6 @@
-# 2025-2A-T10-SI11<div align="center">
+# 2025-2A-T10-SI11
+
+<div align="center">
     <"https://images.seeklogo.com/logo-png/3/1/crea-sp-logo-png_seeklogo-36347.png"  width="600">
 </div>
 
