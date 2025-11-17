@@ -1,7 +1,7 @@
 # 2025-2A-T10-SI11
 
 <div align="center">
-    <img src="https://images.seeklogo.com/logo-png/3/1/crea-sp-logo-png_seeklogo-36347.png"  width="600">
+    <img src="https://logodownload.org/wp-content/uploads/2020/04/crea-sp-logo-0.png"  width="600">
 </div>
 
 # 🙋 2025.3  - Módulo 11:   - Turma 10  - CREA-SP
