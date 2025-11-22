@@ -1,22 +1,18 @@
 # 2025-2A-T10-SI11
 
 <div align="center">
-    <img src="https://www.peak-urban.org/sites/default/files/styles/logo_large/public/2019-06/eafit_page_logo_0.png?itok=7ZRuTUpU"  width="600">
+    <img src="https://logodownload.org/wp-content/uploads/2020/04/crea-sp-logo-0.png"  width="600">
 </div>
 
-# 🙋 2025.3  - Módulo 11: Lógica para predição com inteligência artificial - Turma 15 - Universidad EAFIT
+# 🙋 2025.3 - Módulo 11: Modelo preditivo em aplicações de negócios utilizando Deep Learning - Turma 10  - CREA-SP
 
-## 🎯 O objetivo: Modelo preditivo para identificar alunos que necessitam de suporte a fim de melhorar os resultados acadêmicos.
+## 🎯 O objetivo: Modelo preditivo para detecção de fraudes, inconformidades e volumetria de ARTs.
 
 ## 💻 Projetos Desenvolvidos: 
 
-- Grupo 1 -
-   - https://github.com/InteliProjects/2025-2A-T15-IN03-G01
 - Grupo 2 - 
-  - https://github.com/InteliProjects/2025-2A-T15-IN03-G02
-- Grupo 3
-  - https://github.com/InteliProjects/2025-2A-T15-IN03-G03
+  - https://github.com/InteliProjects/2025-2A-T10-SI11-G02
 - Grupo 4 -
-  - https://github.com/InteliProjects/2025-2A-T15-IN03-G04
+  - https://github.com/InteliProjects/2025-2A-T10-SI11-G04
 - Grupo 5 -
-  - https://github.com/InteliProjects/2025-2A-T15-IN03-G05
+  - https://github.com/InteliProjects/2025-2A-T10-SI11-G05
