@@ -4,9 +4,9 @@
     <img src="https://logodownload.org/wp-content/uploads/2020/04/crea-sp-logo-0.png"  width="600">
 </div>
 
-# 🙋 2025.3  - Módulo 11:   - Turma 10  - CREA-SP
+# 🙋 2025.3  - Módulo 11: Predição com Deep Learning - Turma 10 - CREA-SP
 
-## 🎯 O objetivo:
+## 🎯 O objetivo: Modelo preditivo para detecção de fraudes, inconformidades e volumetria de ARTs.
 
 ## 💻 Projetos Desenvolvidos: 
  
