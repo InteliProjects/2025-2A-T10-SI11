@@ -1,7 +1,7 @@
 # 2025-2A-T10-SI11
 
 <div align="center">
-    <img src="https://logodownload.org/wp-content/uploads/2020/04/crea-sp-logo-0.png"  width="600">
+    <img src="https://drive.google.com/file/d/1ZD1SEFTmjVat09JhsRKMBYp7pT3S6_1u/view?usp=drive_link"  width="600">
 </div>
 
 # 🙋 2025.3  - Módulo 11: Lógica para predição com inteligência artificial - Turma 15 - Universidad EAFIT
@@ -15,7 +15,7 @@
 - Grupo 2 - 
   - https://github.com/InteliProjects/2025-2A-T15-IN03-G02
 - Grupo 3
- - https://github.com/InteliProjects/2025-2A-T15-IN03-G03
+  - https://github.com/InteliProjects/2025-2A-T15-IN03-G03
 - Grupo 4 -
   - https://github.com/InteliProjects/2025-2A-T15-IN03-G04
 - Grupo 5 -
