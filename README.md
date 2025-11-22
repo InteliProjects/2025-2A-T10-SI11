@@ -1,7 +1,7 @@
 # 2025-2A-T10-SI11
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1ZD1SEFTmjVat09JhsRKMBYp7pT3S6_1u/view?usp=drive_link"  width="600">
+    <img src="https://www.peak-urban.org/sites/default/files/styles/logo_large/public/2019-06/eafit_page_logo_0.png?itok=7ZRuTUpU"  width="600">
 </div>
 
 # 🙋 2025.3  - Módulo 11: Lógica para predição com inteligência artificial - Turma 15 - Universidad EAFIT
